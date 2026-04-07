@@ -1,5 +1,9 @@
 /* Takes care of most colors */
 * {
+    --theme-bg-home: #11111B;
+    --theme-ai-searchbox-bg: #252539;
+    --chip-select-bg: #252539 !important;
+    --chip-select-indicator-bg: #313244;
     --theme-col-bg-card:#252539;
     --theme-col-bg-page: #252539;
     --sds-color-background-dark: #11111B;
